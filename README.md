@@ -62,8 +62,5 @@ src/
 
 ## Author
 
-Your Name
+Hitesh Kanisetty
 
-## License
-
-MIT License
